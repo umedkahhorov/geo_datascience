@@ -1,0 +1,10 @@
+Facies ;Description ;Label ;Adjacent Facies
+1 ;Nonmarine Sandstone ;SS ;2
+2 ;Nonmarine coarse siltstone ;CSiS ;1.3
+3 ;Nonmarine fine siltstone ;FSiS ;2
+4 ;Marine siltstone and shale ;SiSh ;5
+5 ;Mudstone ;MS ;4.6
+6 ;Wackestone ;WS ;5.7.8
+7 ;Dolomite ;D ;6.8
+8 ;Packstone-grainstone ;PS ;6.7.9
+9 ;Phylloid-algal bafflestone ;BS ;7.8
